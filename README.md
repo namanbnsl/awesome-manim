@@ -96,6 +96,8 @@
   - [Youtube](https://www.youtube.com/@DoesRing)
 - DotCorzo
   - [YouTube](https://www.youtube.com/@DotCorzo)
+- eduvids
+  - [YouTube](https://www.youtube.com/@eduvids-ai)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)

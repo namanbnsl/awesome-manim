@@ -98,6 +98,8 @@
   - [YouTube](https://www.youtube.com/@DotCorzo)
 - eduvids
   - [YouTube](https://www.youtube.com/@eduvids-ai)
+  - [GitHub](https://github.com/namanbnsl/eduvids)
+  - [X](https://x.com/eduvidsai)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
